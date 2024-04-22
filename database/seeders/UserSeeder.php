@@ -25,9 +25,9 @@ class UserSeeder extends Seeder
         // ]);
         User::create([
             'uuid' => Uuid::uuid4()->getHex(),
-            'username' => 'koplo',
-            'email' => 'koplo@gmail.com',
-            'password' => Hash::make('Koplo123'),
+            'username' => 'user',
+            'email' => 'user@gmail.com',
+            'password' => Hash::make('User123'),
         ]);
     }
 }
