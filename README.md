@@ -1,6 +1,11 @@
 ## About Note App Backend
 
-Note App Backend is App Backend designed by me using Laravel 9 for fulfilling the requirements of applying a job at PT Tiga Serangkai Pustaka Mandiri.
+Note App Backend is App Backend designed by me using Laravel 10 for fulfilling the requirements of applying a job at PT Tiga Serangkai Pustaka Mandiri.
+
+App version:
+Laravel Installer 4.2.16
+Laravel Framework 10.48.8
+PHP 8.1.17
 
 How to install:
 1. Clone the repository
